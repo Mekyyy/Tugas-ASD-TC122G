@@ -1,0 +1,5 @@
+Linear adalah program untuk menyimpan data integer.
+Dimana kita di suruh untuk menuliskan data apa saja yang akan di simpan.
+Lalu apabila kita ingin mencarinya, maka kita harus menuliskan ingin mencari data apa.
+Lalu program akan menampilkan data beserta nomor indeks yang kita simpan.
+Apabila program tidak menemukan data yang kita minta, maka akan ada protektornya.

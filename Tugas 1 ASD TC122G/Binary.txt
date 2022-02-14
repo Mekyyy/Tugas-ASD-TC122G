@@ -1,0 +1,2 @@
+Bedanya dengan Linear, Binary itu outputnya sudah di tulis di dalam codingan.
+Jadi user tidak menginputkan di dalam program, karena user sudah menginputkan datanya di dalam codingannya.
